@@ -1,0 +1,449 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Charles, by the grace of God, King of England, Scotland, France and Ireland, defender of the faith, &amp;c. to all and singular mayors, recorders, customers, comptrollers ... of and within all and singular the port townes ...</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1630</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22535</idno>
+            <idno type="STC">STC 8968</idno>
+            <idno type="STC">ESTC S3769</idno>
+            <idno type="EEBO-CITATION">33150941</idno>
+            <idno type="OCLC">ocm 33150941</idno>
+            <idno type="VID">28828</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22535)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28828)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1876:130)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Charles, by the grace of God, King of England, Scotland, France and Ireland, defender of the faith, &amp;c. to all and singular mayors, recorders, customers, comptrollers ... of and within all and singular the port townes ...</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>W. Stansby,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1630]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint information from STC (2nd ed.).</note>
+                  <note>Commissioning mayors and other officials at port towns (except London, Dover, etc.) to grant passports, with the form of the oath for the clerk in charge of the register book.</note>
+                  <note>Imperfect: faded, broken type.</note>
+                  <note>"Per breu. de priuato sigillo. Willis."</note>
+                  <note>"Witnesse our selfues at Westminster, the nineteenth day of Nouember, in the sixth yeare of Our Raigne."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Passports --  Great Britain.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:28828:1"/>
+            <opener>
+               <signed>
+                  <hi>CHarles,</hi> by the grace of God, King of England, Scotland, France and Ireland, defendor of the faith &amp;c.</signed>
+               <salute>To all and ſingular Mayors, Recorders, Cuſtomers, Comptrollers, Surueyors, Searchers, all Farmers, Deputies of and within all and ſingular the Port Townes, Ports, Hauens, and Creekes, within this our Realme of England, and the Dominion of Wales, now being, and that hereafter ſhall be. And to all and ſingular our Iuſtice of the peace, hauing or which ſhall haue authoritie within the ſaid port Townes, Ports, Hauens, and Creekes, and euery and any of them, for the time being, Greeting.</salute>
+            </opener>
+            <p>Whereas, our late dread and Royall Father, King <hi>Iames,</hi> of happy memorie by his Proclamation dated at <hi>Weſtminſter,</hi> the ninth of <hi>Iuly,</hi> in the fifth yeare of his Raigne of Great Britaine, France and Ireland, did ſtraightly prohibite, and forbid all manner of perſons being naturall borne Subiects of this our Realme, or any of the Dominions of the ſame, of what eſtate or degree ſoeuer they were, that they or any of them (other then ſuch perſons as were excepted, in and by an acte of Parliament made in the fift yeare of the Raigne of King <hi>Richard</hi> the Second, in the ſaid Proclamation mentioned, and other, then Souldiers, Marchants, Marryners, and their Factors, and Apprentices ſhould not at any time thereafter, without ſpeciall lycence of our ſaid Father, or of any foure or more of his priuy Councell whereof his principall Secretarie for the time being to be one, paſſe or departed out of our Realme of England, or any the Dom<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nions of the ſame Into the Kingdomes, Countryes, Territories, or Dominions of any forraine King Prince of State or Potentate, vpo<g ref="char:cmbAbbrStroke">̄</g> corporal &amp; their great &amp; heauie paines &amp; penalties, as by the Laws of this our Realme, might be inflicted vpon ſuch as ſhall offend therein, for their ſo haynous, and vnnaturall offences, againſt their naturall Leige Lord, and Country, in that behalfe, As by the ſaid Proclamation, amongſt other things morefully and plainly appeareth And our ſaid Father, taking into his conſideration, that there were diuers perſons, aſwell Women and Children vnder the age of one and twenty yeares as others, beſides the perſons not reſtrayned by his ſaid proclamation, whereof ſome had good and neceſſarie occaſions to paſſe beyond the Seas, who neuertheleſſe could not law<g ref="char:EOLhyphen"/>fully paſſe out of the ſame without ſuch Lycence as in his ſaid Proclamation was appointed in that behalfe. In which caſes for euery ſuch of his ſaid Subiects, to obtaine Lycence from our ſaid Father, or foure of his Councell whereof his principall Secretary to be one, was very inconuenient. And that diuers of his Subiects being perſons vnknowne, and euill affected to the State of this Kingdome, did oftentimes conuey themſelues out of this Realme, into the Ports beyond the Seas, and combine themſelues with f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>raigne Enemies, thereby to make trouble, and diſturbance, to our ſaid Father and his people, did by ſeuerall Commiſſions vnder his great Seale of England, giue power and authoritie to the Chiefe officers within the Ports of this Kingdome, to adminiſter an Oath vnto ſuch perſons as ſhould deſire, to goe ouer beyond the Seas, and to examine them, and ſuch as they ſhall finde to goe ouer, vpon any good or lawfull occaſion to allow and ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffer to paſſe with diuers prouiſions therin. Neuertheleſſe for the reſtraint of ſuch as ſhould be ſuſpected, or diſcouered to be perſons, dangerous or fit to be made inſtruments of deſperate attemps, which Commiſſions haue taken good effect to the purpoſe to which they were intended. Know yet therefore that wee hauing well weighed the premiſes, and for the exp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dition of ſuch our Subiects, as ſhall haue good and neceſſarie occaſion to paſſe into our Realme of Ireland, or into any other place or places elſewhere beyond the Seas And to quit and eaſe ourſelues, and our Priuie Councell, of that continuell ſuite and trouble, which thereby would happen vnto vs, and them to the hinderance of other our weightie affaires, and alſo to preuent (as much as wee may) all danger that may happen to vs, or our Eſtate in the caſes aforeſaid. And repoſing truſt and confidence in your fidelities, w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſdomes, and circumſpections, hauing aſſigned and appoynted, and by theſe preſents doe aſſigne and appoint you to be our Comiſſioners And wee doe hereby giue vnto you, or any two or more of you, full power and authoritie within the ſeuerall Iuriſdictions, Ports, Creekes and Places reſpectiuely, where you and euery of you, are to execute your ſeuerall offices and places or to attend from time to tim<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (except the Ports of London, Douer, Sandwich, Briſtoll, Beawmorris, Cheſter and Leuerpoole.) to m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>niſter an Oath to all &amp; euery perſon &amp; parſons, as well Women and Childr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>der <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he age of one and twenty yeares, being of conuenient age to take an Oath, as other Perſon and Perſons, other then the perſons not reſtrayned as aforeſaid, as ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll offer or d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to goe ouer the Seas, to our ſaid Realme of Ireland, or into any other place or places elſewhere beyond the Seas, at any of the ſaid Ports, Hauens or Creekes, reſpectiuely as aforeſaid (except before excepted) to anſwere truely to ſuch queſtions, as you or any two or more of you ſhall aſke of them. And vpon ſuch their Oath to aſke &amp; learne of them thei<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Names and Su<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ances, the place of their birth and aboad, their ſtate, degree, vocation, trade, myſterie or occupation, and the true cauſe or cauſes of their going ouer, toge<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er with the place or places, whether they intend or are to goe, and the time that they intend, and are lik<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſtay and tarry before they returne, all other queſtions that your diſcretions, accordin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the o<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aſio<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou ſhall thinke fit All which perſons and their anſweres in the pointes aforeſaid, or what elſe <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n your diſcretions, you ſhall thinke fit to be demanded of them and the time of their paſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. We will that you cauſe an orderly and perfect entry to be made in a Booke, by ſuch Clarke or Clarkes, as we haue nominated and appointed, or ſhall nomina<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and appoi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te thereunto vnder our great Seale of England or his or there Deputy or Deputies, whi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h booke may be extended vpon all occaſions. And wee doe alſo by theſe preſents giue full power and aut<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oritie vnto yo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or any two or more of you reſpectiuely, within all and euery the ſaid Ports, Hauens and Creekes, (except before excepted) to tender the Oath mentioned <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> acte o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rl<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt, made in the third yeare of our ſaid late Fathers Raigne of England Scotl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd, France and Ireland, In<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ituled an acte, for the diſcouering and repreſſing of Pop<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh re<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nts, vnto any ſuch perſon or perſons, as you or any two or more of you in your diſcretio<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall thinke fit, except ſuch perſons, as are not reſtrayned by the ſaid Proclamation, which ſhall be <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſ<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>us to paſſe ouer the Seas, into our ſaid Realme of Ireland, or into any other pl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce or places elſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>where, beyond the Seas, at the ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id Ports, Ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ens or Creekes reſpectiuely (except before excepted) vpon which examination ſo by you or any ſuch two or more o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be taken and entred in mann<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r af<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſaid, and the ſaid Oath ſo <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>endered, in caſe where you or any two or more of yo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll thinke it fit, as aforeſaid. Such of the ſaid <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s intendi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to goe ouer the S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> into our ſaid Realme of Ireland, or into any <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther place or p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aces, elſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>where beyo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the Seas, as <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou or any ſuch two or more of yo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de to goe o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, for a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y good or lawfull occ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſio<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, &amp; w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich you ſha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouer, by ſuc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their examinati<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n or otherwiſe, or learne to be gentlemen or are nor value, or publikely noted of any diſl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yal <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r dangerous action or <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction, and ſhall alſo willi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gly take the ſaid Oath, mention<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d u<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>e ſaid <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Parliament, mad<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the ſaid third yeare of our ſaid Fathers Raigne of En<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>la<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Scotland, France <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Ireland, in caſe where you or any two or more of you ſhall thi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke go<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to min<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſter, the ſame as aforeſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id you or any ſuch two or more of you, may and ſhall allow and ſuff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r to paſſe, and there<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon you or a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y two or more of you ſhall ſig<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your hands <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſeales the ſame perſons to be allowed to paſſe ouer the Seas, into our ſaid Realme of Ireland, or into any other pla<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e or places elſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere beyond t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Seas at <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny of the P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uens or Cr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ekes reſpectiuely as aforeſaid (except before excepted) of which your ſaid teſtimonialls, you ſhall cauſe to be e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tered into the ſai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Booke, a ſhort R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>membrance v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on which your teſti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oniall, or t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtimonialls ſo made, theſe our letters patents ſhall be vnto the perſons themſelues So by you or two or more of you, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nder ſuch your teſtimonialls allowed a ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ent warrant to paſſe a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d goe ouer the Seas, or any of the ſaid Ports, Hauens or Cre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kes aforeſaid, (except before excepted.) And <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o all, and euery the Cuſtomers Com<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lers and Searchers and ot<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er Officers of the ſaid Por<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, to let them paſſe there without other Lycence to be had or other entry of the names, of ſuch paſſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gers by them or any o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de or taken A<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to all owne<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of Ships, or veſſells, to carry and conuey them from thence ouer the Seas. T<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſaid Proclamation, made the ninth of <hi>Iuly,</hi> in the ſaid firſt yea<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our ſaid Fathe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Raigne of g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eat Br<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ttaine, France and Ireland, or any Statute, Ordinance, Lawes, Proclamations, Reſtraynt or <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther things to the co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>trary Notwit<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtanding, P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouided neuertheleſſe, and our will and pleaſure is that ſuch as vpon exami<g ref="char:EOLhyphen"/>nation, you or any two or more of you ſhall find or otherwiſe Diſcouer or Suſpect, to be Perſons dangerous, or fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be made inſtruments of deſperate Attempts, or which ſhall refuſe to take the ſaid Oath mentioned in the ſaid Act of Parliament made in the ſaid third yeare of O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r ſaid Fathers Raigne, when you ſhall according to your diſcretions thinke fi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, to tender the ſame, to ſuch you ſhall not onely denie Paſſage but alſo commit them to Ward and ſhall forthwith certifie Our Priuie Counſell of them and all things that you ſhall vnderſtand concerning them. whereupon ſuch directions as you ſhall receiue from Our ſaid Counſell, Our will is that you doe in all things follow and obſerue: Prouided alſo that if any the Perſons ſo Paſſing, ouer as aforeſaid, ſhall after his departure out of this Realme, ſo commit or put t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vre, attempt or conſent, vnto any act, deuiſe, plot, or thing againſt Vs, or any of Our Kingdomes and Dominions, or any Our Lawes or Statutes, that euerie Perſon ſo offending ſhall looſe the benefit of this Warrant, and of this Our Letters Patents, and ſhall to all intents and purpoſes be taken and adiudged to be as one, that maliciouſly and contemp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uouſly did P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe, or depart out of this Realme contrarie to the tenor and effect of the ſaid Statute &amp; of the ſaid Proclamation and with<g ref="char:EOLhyphen"/>out any Lycence obtained from Vs. And therefore, We doe hereby ſtraightly charge and command, all Maſters of Ships or Shippers and other Perſons whatſoeuer, that they or any of them, doe not preſume or attempt to take into their Ships, Hoyes or other Veſſels at any time: from henceforth any Paſſengers whatſoeuer, to the intent to Paſſe out of this Realme other then the Perſons not reſtrained or to be Lycenced to Paſſe according to the ſaid Proclamation, without permiſſion and Warrant of Our ſaid Commiſſioners or any two or more of them, vn<g ref="char:EOLhyphen"/>der their hands, firſt obtained, as aforeſaid, vpon ſuch paines and penalties as may be inflicted vpon the offenders, for contempt of Our Royall command, And to the intent that the Clearke and Clearkes and their Deputies appointed to make, a true and perfect entrie of the Names of Paſſengers, and other things herein before appointed to be Regiſtred and to keepe a Booke thereof to be extant, according to Our pl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſure, herein before declared, may bee the better app<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oued to be Our faithfull Subiects, and truely to execute their places, in all things as ſhall be moſt fit, We, doe hereby ordaine, conſtitute and appoint, That all and euery the ſaid Clearke and Clearkes and their Deputies, in each ſeuerall Port of their ſeuerall attendance, Reſpectiuely before they or any of them be admitted to the execution of the ſaid Office or place of Clearke, or deputie Clearke ſhall before two more of Our ſaid Commiſſioners reſiding of in or neere that Port reſpectiuely, where the ſaid Clearke or deputie Clearke ſhall attend, not onely take the ſeuerall Oathes of Supremacie and Allegeance, but alſo ſhall take a corporall Oath, vpon the holy Euangeliſt, for the due and faithfull execution of the ſaid Office or place of Clarke, or D<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>puty Clarke of the purport and effect following, <hi>viz.</hi>
+            </p>
+            <p>YOu ſhall diligently attend and faithfully execute the Office or place of Clearke or deputie Clearke (if he be a Deputie) of the Paſſengers ouer the Sea, whereunto you are appointed in the Port of <hi>R.</hi> (naming the Port) you ſhall make and keepe a perfect entrie in a Regiſter Booke, to bee kept of purpoſe of the names and ſurnames of all ſuch as ſhall be Lycenced by the Commiſſioners, in that behalfe appointed to paſſe the Seas, with their places of birth and aboad, their ſtate, degree, vocation, trade, myſterie or occupation, and the true cauſe or cauſes of their going ouer, together with the place or places whither they intend or are to goe, and the time they are like or intend to returne according as they ſhall anſwere the ſame, vpon Oath before his ſaid Maieſties Commiſſioners, with the date of their Paſſes, and ſuch other things as the ſaid Commiſſioners ſhall direct you to enter and Regiſter, that the ſame may be extant vpon all occaſſions, you ſhall doe your beſt endeauour, to diſcouer and find out all fraude and counterfeiting vſed or attempted, by any Paſſengers for the concealing of his true Name, qualitie or eſtate. or occaſion or end of his going ouer, and thereof acquaint the ſaid Commiſſioners, that ſuch ſuſpected Perſons may be ſtayed according to their Commiſſion, you ſhall not draw vp or make any Paſſe or Lycence for any Paſſenger, but ſuch onely as ſhall bee firſt examined vpon Oath before the ſaid Commiſſioners, and haue before them taken the Oath of Allegaence according to the ſaid Commiſſion, nor ſhall giue any Ticket or Note vnder your hand, to any Searcher, Shipmaſter, or other Officer, for the Shipping away of any Paſſenger, but ſuch onely as ſhall be firſt Lycenced and allowed by the ſaid Commiſſioners, by Paſſe vnder their hands and in all things elſe to the ſaid Office belonging Well &amp; duely behaue your ſelfe as an honeſt, diligent, and faith<g ref="char:EOLhyphen"/>full Officer ought to doe, <hi>So helpe you God.</hi>
+            </p>
+            <p>And for the better performance hereof, We doe by theſe preſents giue and graunt vnto you Our ſaid Commiſſioners, or any two or more of you within or neere the ſeuerall Ports or Places where you ſhall be reſident, to adminiſter the ſaid Oath to the ſaid Clearkes and their deputies, and euery of them Reſpectiuely, without any farther or other Warrant or Comm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſion from vs in that behalfe, to behad, procured or obtained. And We alſo command by Authoritie hereof, all and ſingular Iuſtices of Peace, Mayors, Sheriffes, Bayliffes, Conſtab<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, Headboroughes<g ref="char:punc">▪</g> Cuſtomers, Comptrollers, Searchers, Surueyors, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd all other our Officers and Miniſters, that they and euery of them be diligent, &amp; carefull in the execution of this Our Commiſſion, and to the vttermoſt of their powers, to cauſe Our pleaſu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e herein expreſſed to be from time to time performed with all conuenient expedition. In witneſſe whereof We haue cauſed theſe Our Letters to be made Patents,</p>
+            <closer>
+               <dateline>Witneſſe Our ſelues at Weſtminſter <date>the Nineteenth day of Nouember, in the Sixth yeare of Our Raigne.</date>
+               </dateline>
+               <signed>Per breu. priuato Sigillo, WILLIS.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
